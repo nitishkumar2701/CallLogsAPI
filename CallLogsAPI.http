@@ -1,0 +1,6 @@
+@CallLogsAPI_HostAddress = http://localhost:5151
+
+GET {{CallLogsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

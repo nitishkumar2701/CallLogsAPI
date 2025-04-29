@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fj+DsQkopBVoMgK5L364KcX+KX/5wUcdTI38CXIAIsE=",
+  "Source": "CallLogsAPI",
+  "BasePath": "_content/CallLogsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
