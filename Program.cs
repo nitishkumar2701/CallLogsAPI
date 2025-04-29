@@ -18,9 +18,9 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo 
     { 
-        Title = "Location Details API", 
+        Title = "Call Log Details API", 
         Version = "v1",
-        Description = "API for managing location details"
+        Description = "API for managing Call Log details"
     });
 });
 
